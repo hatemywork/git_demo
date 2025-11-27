@@ -12,8 +12,8 @@ it is ***very important***.
 
 ---
 
-first, you should type 'i am stupid'.  
+first, you should type `i am stupid`.  
 
 ---
 
-这是一个链接[必应搜索]（https://cn.bing.com/?mkt=zh-cn "比百度好多了"）  
+这是一个链接[必应搜索](https://cn.bing.com/?mkt=zh-cn "比百度好多了") 
